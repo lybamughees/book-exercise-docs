@@ -8,10 +8,12 @@ Be sure to implement all the PIOT-GDA-* issues (requirements) listed at [PIOT-IN
 
 NOTE: Include two full paragraphs describing your implementation approach by answering the questions listed below.
 
-What does your implementation do? 
+**What does your implementation do? **
+
 This chapter's main tasks revolved around creating the testing environment for integration and unit testing. Unit tests are designed to confirm that specific inputs provided to a given function or method yield the anticipated outcome. Integration tests hold significant importance in the realm of IoT since they serve as a means to validate that the connections and interplays among various systems and applications operate as intended. We also set up a GitHub repository for any code changes. GitHub provides several powerful features to help with code changes and collaborative software development.GitHub simplifies and streamlines the software development process by providing a platform for version control, collaboration, code review, and project management. It enhances code quality, transparency, and the ability to work on code changes as a team. 
 
-How does your implementation work?
+**How does your implementation work?**
+
 Using GitHub allows all the group members to directly push and pull the code from the repo to the local machine. This allows all the team members to work on different sections of the code. Every time a test case is updated, another team member can run the code on their machine to make sure it is working as expected. This allows all the team members to effectively collaborate on a project.
 ### Code Repository and Branch
 
