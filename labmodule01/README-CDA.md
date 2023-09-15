@@ -18,7 +18,7 @@ We have the same github repository installed on both of our computers so that we
 
 ### Code Repository and Branch
 
-URL: https://github.com/lybamughees/piot-java-components/tree/labmodule01
+URL: https://github.com/madlitch/python-components
 
 ### UML Design Diagram(s)
 
