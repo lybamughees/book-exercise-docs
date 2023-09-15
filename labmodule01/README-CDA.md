@@ -14,7 +14,7 @@ This chapter revolved around getting our development environment set up, so we c
 
 How does your implementation work?
 
-
+We have the same github repository installed on both of our computers so that we can work on the same codebase at the same time.
 
 ### Code Repository and Branch
 
@@ -22,9 +22,7 @@ URL: https://github.com/lybamughees/piot-java-components/tree/labmodule01
 
 ### UML Design Diagram(s)
 
-NOTE: Include one or more UML designs representing your solution. It's expected each
-diagram you provide will look similar to, but not the same as, its counterpart in the
-book [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/).
+![CDATest](https://github.com/lybamughees/book-exercise-docs/assets/33076159/abfa02b0-c1b7-44a5-9154-7b770242f425)
 
 
 ### Unit Tests Executed
