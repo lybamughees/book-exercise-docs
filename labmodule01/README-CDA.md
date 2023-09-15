@@ -10,13 +10,17 @@ NOTE: Include two full paragraphs describing your implementation approach by ans
 
 What does your implementation do? 
 
+This chapter revolved around getting our development environment set up, so we can continue working on the rest of the lab modules. We ran the provided unit and integration tests to ensure that our environments were set up correctly. We also set up a github repository so that our work can be combined easily.
+
 How does your implementation work?
+
+
 
 ### Code Repository and Branch
 
 NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot/python-components/tree/alpha001).
 
-URL: 
+URL: https://github.com/lybamughees/piot-java-components/tree/labmodule01
 
 ### UML Design Diagram(s)
 
@@ -31,9 +35,8 @@ NOTE: TA's will execute your unit tests. You only need to list each test case be
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
 
-- 
-- 
-- 
+- ConfigUtilTest
+![CleanShot 2023-09-15 at 09 21 42@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/7ab249bc-885f-4b2e-a52f-3f4a747e3006)
 
 ### Integration Tests Executed
 
@@ -42,8 +45,7 @@ some exceptions (such as your cloud connectivity tests). In such cases, they'll 
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
-- 
-- 
-- 
+- ConstrainedDeviceAppTest
+![CleanShot 2023-09-15 at 09 18 44@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/45bf691b-f1ed-4741-8ae0-4663f7ae7304)
 
 EOF.
