@@ -18,7 +18,7 @@ We have the same github repository installed on both of our computers so that we
 
 ### Code Repository and Branch
 
-URL: https://github.com/madlitch/python-components
+URL: https://github.com/madlitch/python-components/tree/labmodule01
 
 ### UML Design Diagram(s)
 
