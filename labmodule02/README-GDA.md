@@ -32,12 +32,15 @@ NOTE: TA's will execute your unit tests. You only need to list each test case be
 since you need to ensure you haven't introduced regressions.
 
 - ConfigUtilTest
+  
   <img width="645" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/0ef62500-e512-4928-b528-56280b449d70">
 
   - SystemMemUtilTaskTest
+    
 <img width="645" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/3bc1e4b7-47a2-4a36-86e1-045f6eb01588">
 
 - SystemCpuUtilTaskTest
+  
   <img width="651" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/e0d0d727-bd7c-43a5-bec2-e21f6732422d">
 
 ### Integration Tests Executed
@@ -48,9 +51,11 @@ your code to ensure it's correct. As for the tests you execute, you only need to
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
 - SystemPerformanceManagerTest
+  
   <img width="635" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/98f58ba7-2dce-4a63-8a7d-1e4e251a00c2">
 
 - GatewayDeviceAppTest
+  
 <img width="624" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/2dd8b834-0c21-4248-bb6c-43b11ad5f6a1">
 
 EOF.
