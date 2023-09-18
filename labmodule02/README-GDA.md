@@ -8,9 +8,12 @@ Be sure to implement all the PIOT-GDA-* issues (requirements) listed at [PIOT-IN
 
 NOTE: Include two full paragraphs describing your implementation approach by answering the questions listed below.
 
-What does your implementation do? 
+**What does your implementation do?**
 
-How does your implementation work?
+The implementation is of a Gateway Device Application (GDA) for an IoT system. The GDA is part of the IoT Edge Tier and is responsible for collecting system performance data and potentially other telemetry from IoT devices. The GDA collects system performance telemetry, including metrics like CPU and memory utilization. It may also collect additional telemetry data related to network utilization and disk utilization. While the CDA (Constrained Device Application) generates its specific system performance telemetry and sensor-specific telemetry, the GDA processes data from the CDA and sends both its own telemetry and the CDA's telemetry to the cloud for further processing. The GDA uses Java's concurrency library to manage tasks that collect telemetry data at regular intervals. The implementation includes unit tests for various components to ensure they work as expected. The implementation uses logging to record information about the application's initialization, start, stop, and telemetry data. Overall, the GDA is a central component in an IoT system, responsible for collecting and managing system performance data and potentially other telemetry, which can be later processed and sent to the cloud for further analysis.
+
+
+**How does your implementation work?**
 
 ### Code Repository and Branch
 
