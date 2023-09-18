@@ -15,6 +15,9 @@ The implementation is of a Gateway Device Application (GDA) for an IoT system. T
 
 **How does your implementation work?**
 
+The GDA's entry point is the `GatewayDeviceApp` class. During initialization, the GDA reads configuration settings, including the polling rate for collecting telemetry data, from a configuration file. The `SystemPerformanceManager` is responsible for managing the collection of system performance data. It creates instances of `SystemCpuUtilTask` and `SystemMemUtilTask`, which are responsible for collecting CPU and memory utilization data. The manager sets up a scheduled task using Java's concurrency library (`ScheduledExecutorService`) to run at regular intervals (defined by the polling rate). At each interval, the scheduled task calls the `handleTelemetry()` method in the manager. The `SystemCpuUtilTask` and `SystemMemUtilTask` classes are responsible for collecting CPU and memory utilization data, respectively. They use platform-specific APIs or libraries to retrieve system performance metrics. The collected data is then logged, and the telemetry values are made available to the manager. The `handleTelemetry()` method in the `SystemPerformanceManager` is called at regular intervals. It retrieves telemetry data from the `SystemCpuUtilTask` and `SystemMemUtilTask`. The telemetry data, including CPU and memory utilization values, is logged for monitoring purposes. The GDA application logs various messages, including initialization, start, and stop events, as well as telemetry data. When the GDA application is stopped, it shuts down the `ScheduledExecutorService`, which stops the scheduled telemetry collection task.
+
+
 ### Code Repository and Branch
 
 NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot/python-components/tree/alpha001).
