@@ -30,11 +30,16 @@ book [Programming the IoT](https://learning.oreilly.com/library/view/programming
 NOTE: TA's will execute your unit tests. You only need to list each test case below
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
-![CleanShot 2023-09-22 at 11 47 53@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/dea796d4-12d2-4294-826a-f999700f0412)
 
-- 
-- 
-- 
+- ConfigUtilTest
+![CleanShot 2023-09-22 at 11 50 49@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/b09384ae-9fa9-4ec9-bcd1-85e7dd6bdfe8)
+
+- SystemCpuUtilTaskTest
+![CleanShot 2023-09-22 at 11 55 58@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/b3f4ee2b-bca4-4b05-9688-ef4440c30a59)
+
+- SystemMemUtilTaskTest
+![CleanShot 2023-09-22 at 11 56 35@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/396ffead-eec6-4ade-bfe8-af2b7c9296a7)
+
 
 ### Integration Tests Executed
 
@@ -43,10 +48,11 @@ some exceptions (such as your cloud connectivity tests). In such cases, they'll 
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
+- ConstrainedDeviceAppTest
 ![CleanShot 2023-09-22 at 11 49 35@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/ba75fc68-a028-4824-b079-5f01e3277e87)
 
-- 
-- 
-- 
+- SystemPerformanceManagerTest (Excerpt)
+![CleanShot 2023-09-22 at 11 54 23@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/022ca979-7c02-455a-baa4-ca4cdfc95a11)
+
 
 EOF.
