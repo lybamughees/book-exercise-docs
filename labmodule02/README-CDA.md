@@ -10,19 +10,19 @@ NOTE: Include two full paragraphs describing your implementation approach by ans
 
 What does your implementation do? 
 
+This module serves to implement performance monitoring for our CDA at regular intervals, and log it using the system logger. It is built off of the architecture worked in the previous module.
+
 How does your implementation work?
+
+We have implemented a wrapper and multiple modules that serve to monitor specific performance data characteristics. For example, the SystemPerformanceManager module is responsible for all system performance data, in which it collects through the SystemCpuUtilTask and the SystemMemUtilTask modules. 
 
 ### Code Repository and Branch
 
-NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot/python-components/tree/alpha001).
-
-URL: 
+URL: https://github.com/madlitch/python-components/tree/labmodule02
 
 ### UML Design Diagram(s)
 
-NOTE: Include one or more UML designs representing your solution. It's expected each
-diagram you provide will look similar to, but not the same as, its counterpart in the
-book [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/).
+![image](https://github.com/lybamughees/book-exercise-docs/assets/33076159/a3c84dda-d815-4673-a39c-b3bb2d34e0bf)
 
 
 ### Unit Tests Executed
