@@ -30,6 +30,7 @@ book [Programming the IoT](https://learning.oreilly.com/library/view/programming
 NOTE: TA's will execute your unit tests. You only need to list each test case below
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
+![CleanShot 2023-09-22 at 11 47 53@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/dea796d4-12d2-4294-826a-f999700f0412)
 
 - 
 - 
@@ -41,6 +42,8 @@ NOTE: TA's will execute most of your integration tests using their own environme
 some exceptions (such as your cloud connectivity tests). In such cases, they'll review
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
+
+![CleanShot 2023-09-22 at 11 49 35@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/ba75fc68-a028-4824-b079-5f01e3277e87)
 
 - 
 - 
