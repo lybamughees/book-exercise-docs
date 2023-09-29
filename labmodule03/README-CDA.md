@@ -31,6 +31,8 @@ book [Programming the IoT](https://learning.oreilly.com/library/view/programming
 CDA Simulator Design
 ![CleanShot 2023-09-29 at 17 38 52@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/e9d72778-b724-4276-bca0-376bcbb6ef07)
 
+CDA Simulator
+![CleanShot 2023-09-29 at 17 58 26@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/7be6613c-c937-4ae2-b602-2842541b20c6)
 
 
 ### Unit Tests Executed
