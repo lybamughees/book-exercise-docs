@@ -9,9 +9,11 @@ Be sure to implement all the PIOT-GDA-* issues (requirements) listed at [PIOT-IN
 NOTE: Include two full paragraphs describing your implementation approach by answering the questions listed below.
 
 **What does your implementation do?**
+
 I am implementing the ability for the GDA to store and retrieve data locally on the device. This allows the GDA to keep a history of sensor data, system performance data, or any other relevant information, even when there is no internet connectivity. Later, you can use this stored data for analysis or decision-making. The GDA will have the capability to store and retrieve data locally, enhancing its ability to operate effectively in scenarios with limited or intermittent network connectivity.
 
 **How does your implementation work?**
+
 The local data persistence functionality provides the GDA with the capability to store incoming data locally on the device. This is particularly useful in scenarios with limited or intermittent network connectivity. The stored data can be retrieved and analyzed later, enabling the GDA to make decisions or perform analysis even when it's not connected to the internet. By implementing local data persistence, the GDA gains resilience and the ability to work effectively in situations where continuous internet connectivity may not be available.
 ### Code Repository and Branch
 
