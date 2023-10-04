@@ -23,6 +23,9 @@ URL: https://github.com/lybamughees/piot-java-components/tree/labmodule05
 
 ### UML Design Diagram(s)
 
+<img width="558" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/2d501353-1ee0-4a24-bbbe-ff53e647404d">
+
+
 NOTE: Include one or more UML designs representing your solution. It's expected each
 diagram you provide will look similar to, but not the same as, its counterpart in the
 book [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/).
