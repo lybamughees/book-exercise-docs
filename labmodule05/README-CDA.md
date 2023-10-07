@@ -70,6 +70,17 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
 - SystemPerformanceManagerTest
 ![CleanShot 2023-10-06 at 20 15 57@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/ecb2ab92-d32e-466a-ad58-3be273b1d2a6)
+- SensorAdapterManagerTest
+![CleanShot 2023-09-29 at 17 08 47@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/51ce99de-317e-4da9-816a-8adbbb7ecd02)
+
+- ActuatorAdapterManagerTest
+![CleanShot 2023-09-29 at 17 11 22@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/b16a619d-55fe-4e46-80fb-bd49ef5478dc)
+
+- DeviceDataManagerNoCommsTest
+![CleanShot 2023-09-29 at 17 24 32@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/e204ddc9-9563-429b-af75-5f4b8ca39952)
+
+- ConstrainedDeviceAppTest
+![CleanShot 2023-09-29 at 17 26 25@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/48a22b91-4acb-4608-aa0a-5a67d19d1b7f)
 
 
 EOF.
