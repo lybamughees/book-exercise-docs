@@ -36,6 +36,30 @@ since you need to ensure you haven't introduced regressions.
 
 - DataUtilTest
 ![CleanShot 2023-10-06 at 20 13 39@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/13e26c85-7a4e-4327-8f95-d3d22d47cbdc)
+- ActuatorDataTest
+  ![CleanShot 2023-09-29 at 16 34 19@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/b1d1a46c-2190-40ca-ac72-1154d8b74a78)
+
+- SensorDataTest
+![CleanShot 2023-09-29 at 16 34 49@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/038beb01-9db3-4a85-9a2a-e7305c96fa76)
+
+- SystemPerformanceDataTest
+![CleanShot 2023-09-29 at 16 35 17@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/58b04452-493d-440b-a19e-97581390f9b4)
+
+- HumiditySensorSimTaskTest
+![CleanShot 2023-09-29 at 16 46 04@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/b36f17cb-3d22-4e49-8869-65edae277b9d)
+
+- PressureSensorSimTaskTest
+![CleanShot 2023-09-29 at 16 48 19@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/2d280d2f-3634-4086-90cf-d0bc652b0c58)
+
+- TemperatureSensorSimTaskTest
+![CleanShot 2023-09-29 at 16 48 41@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/6ec5b873-399d-414f-bd9b-38465017fc23)
+
+- HumidifierActuatorSimTaskTest
+![CleanShot 2023-09-29 at 17 00 06@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/3b4a8117-92dd-4844-bf3d-bf8ca6b47885)
+
+- HvacActuatorSimTask
+![CleanShot 2023-09-29 at 17 00 54@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/ed554f9e-a38b-460c-903c-d33312ef7629)
+
 
 ### Integration Tests Executed
 
