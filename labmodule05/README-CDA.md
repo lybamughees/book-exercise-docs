@@ -10,8 +10,11 @@ NOTE: Include two full paragraphs describing your implementation approach by ans
 
 What does your implementation do? 
 
+The implementation describes how to convert data objects, such as ActuatorData, SensorData, and SystemPerformanceData, to and from JSON format using a DataUtil class. The ActuatorDataToJson function converts an ActuatorData object to a JSON string, while the jsonToActuatorData function reverses the process by converting a JSON string back to an ActuatorData object. These functions ensure that data can be easily exchanged between components in an IoT system by converting it to a common JSON format. Similar conversion functions can be implemented for other data types, allowing for seamless data communication within the system.
+
 How does your implementation work?
 
+The implementation enables the conversion of custom data objects, such as ActuatorData, SensorData, and SystemPerformanceData, to JSON format and vice versa. When converting to JSON, the system uses a private function to create a JSON representation of the data object's attributes and values, ensuring compatibility through a custom JSON encoder. When converting from JSON, the system parses the JSON input, extracts key-value pairs, and constructs a new data object instance, updating its attributes with values from the JSON data. This functionality streamlines data exchange in an IoT ecosystem, promoting seamless communication and interoperability among various components.
 ### Code Repository and Branch
 
 NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot/python-components/tree/alpha001).
