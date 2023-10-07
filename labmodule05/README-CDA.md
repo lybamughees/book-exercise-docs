@@ -31,9 +31,8 @@ NOTE: TA's will execute your unit tests. You only need to list each test case be
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
 
-- 
-- 
-- 
+- DataUtilTest
+![CleanShot 2023-10-06 at 20 13 39@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/13e26c85-7a4e-4327-8f95-d3d22d47cbdc)
 
 ### Integration Tests Executed
 
@@ -42,8 +41,8 @@ some exceptions (such as your cloud connectivity tests). In such cases, they'll 
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
-- 
-- 
-- 
+- SystemPerformanceManagerTest
+![CleanShot 2023-10-06 at 20 15 57@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/ecb2ab92-d32e-466a-ad58-3be273b1d2a6)
+
 
 EOF.
