@@ -82,5 +82,10 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 - ConstrainedDeviceAppTest
 ![CleanShot 2023-09-29 at 17 26 25@2x](https://github.com/lybamughees/book-exercise-docs/assets/33076159/48a22b91-4acb-4608-aa0a-5a67d19d1b7f)
 
+-DataIntegrationTest
+![image](https://github.com/lybamughees/book-exercise-docs/assets/66569488/35b1e099-7577-4930-b04c-452227381431)
+
+
+
 
 EOF.
