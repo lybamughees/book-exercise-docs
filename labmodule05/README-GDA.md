@@ -79,5 +79,7 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
   <img width="509" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/44bc4118-26b4-4bf4-8b7f-f15e93d881b6">
   
 - DataIntegrationTest
+  ![image](https://github.com/lybamughees/book-exercise-docs/assets/66569488/b6c2b0f1-0795-4da1-ba99-5208ccadb259)
+
   
 EOF.
