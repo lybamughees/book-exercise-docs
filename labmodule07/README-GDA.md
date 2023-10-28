@@ -10,13 +10,19 @@ NOTE: Include two full paragraphs describing your implementation approach by ans
 
 What does your implementation do? 
 
+
+My implementation focuses on building MQTT client connection logic within the Gateway Device Application (GDA). This GDA will eventually serve as the bridge between Constrained Device Applications (CDA) and remote cloud services, using MQTT for communication.
+
+
 How does your implementation work?
+
+My implementation involves integrating MQTT (Message Queuing Telemetry Transport) into the Gateway Device Application (GDA) for handling communication with Constrained Device Applications (CDAs) and potentially remote cloud services. Overall, my implementation enables my GDA to communicate with CDAs and remote cloud services using MQTT. It follows the MQTT publish-subscribe pattern, where messages are published to topics and subscribed to by interested clients. The MqttClientConnector component plays a crucial role in establishing and managing these MQTT connections. This integration allows for reliable, two-way communication in the context of the Internet of Things (IoT).
 
 ### Code Repository and Branch
 
 NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot/python-components/tree/alpha001).
 
-URL: 
+URL: https://github.com/lybamughees/piot-java-components/tree/labmodule07
 
 ### UML Design Diagram(s)
 
