@@ -80,4 +80,11 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 - DataIntegrationTest
   ![image](https://github.com/lybamughees/book-exercise-docs/assets/66569488/b6c2b0f1-0795-4da1-ba99-5208ccadb259)
 
+- MqttClientConnectorTest
+  <img width="661" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/b0548501-ebf2-4f5a-b68f-bbad633d990d">
+<img width="675" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/70d17685-032d-4ce2-a2a7-50de16bc3c9d">
+
+  
+
+
 EOF.
