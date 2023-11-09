@@ -24,6 +24,8 @@ URL: https://github.com/lybamughees/piot-java-components/tree/labmodule08
 
 ### UML Design Diagram(s)
 
+![image](https://github.com/lybamughees/book-exercise-docs/assets/66569488/5b4fa924-46e2-4ba4-97dd-bd22d980f0d2)
+
 
 NOTE: Include one or more UML designs representing your solution. It's expected each
 diagram you provide will look similar to, but not the same as, its counterpart in the
