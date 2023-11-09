@@ -98,4 +98,12 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
   <img width="661" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/b0548501-ebf2-4f5a-b68f-bbad633d990d">
 <img width="675" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/70d17685-032d-4ce2-a2a7-50de16bc3c9d">
 <img width="623" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/ad20954c-540e-4ec7-9139-edace5e215ca">
+
+- CoapServerGatewayTest
+
+  <img width="1091" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/ca20b663-3f51-4868-8580-abc4c6de46d6">
+  <img width="1075" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/d8257dca-164d-450b-8396-b60441e7688c">
+
+
+
 EOF.
