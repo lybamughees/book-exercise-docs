@@ -23,6 +23,7 @@ NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot
 URL: https://github.com/lybamughees/piot-java-components/tree/labmodule09
 
 ### UML Design Diagram(s)
+<img width="518" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/396cb552-61ba-414e-a96c-a6045126002c">
 
 NOTE: Include one or more UML designs representing your solution. It's expected each
 diagram you provide will look similar to, but not the same as, its counterpart in the
