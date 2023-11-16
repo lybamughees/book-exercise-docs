@@ -8,7 +8,7 @@ Be sure to implement all the PIOT-CDA-* issues (requirements) listed at [PIOT-IN
 
 NOTE: Include two full paragraphs describing your implementation approach by answering the questions listed below.
 
-**What does your implementation do? **
+**What does your implementation do?**
 
 In this implementation, I've examined a Java class named CoapClientConnector. The class serves as a CoAP (Constrained Application Protocol) client connector, providing functionality to send various CoAP requests (GET, POST, PUT, DELETE) to a specified server and handle the corresponding responses. It also supports CoAP discovery requests to retrieve information about available resources on the server. One notable feature is the ability to observe resources, allowing the client to receive updates when the observed resource changes. The implementation utilizes the Californium CoAP library providing a flexible and modifiable shell for CoAP communication. The class structure includes methods for initializing the client, sending different types of requests, handling responses, and managing resource observation. Additionally, the class incorporates logging and exception handling to improve robustness.
 
