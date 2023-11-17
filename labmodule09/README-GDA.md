@@ -106,11 +106,12 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
 - testConnectAndDiscover
   
-  <img width="726" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/79f96e60-925d-4a1f-b1c1-64d4e4c5124a">
+ <img width="759" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/9ff8c5ca-0828-418f-a398-15a162815393">
 
 - testObserve
 
-  <img width="737" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/ebe9965e-2f5b-4b66-a4ec-d533912972b2">
+ <img width="730" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/4afd6112-a3d3-4e1b-8029-b06c3a312da7">
+
 
 - testGetRequestCon
 
@@ -120,7 +121,32 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
 <img width="733" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/e3f3fc6a-5f24-429f-86fe-ee417fa5738e">
 
-- 
+- testPutRequestNon
+
+  <img width="731" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/2dad108a-141f-4159-ad49-d3f71ee69a19">
+
+
+- testPostRequestCon
+
+  <img width="725" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/48d289ff-b1d1-4538-87d5-5a2c410e734b">
+
+- testPostRequestNon
+
+  <img width="724" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/13e41c9e-3567-4a79-a921-807b04bd55c8">
+
+- testPutRequestCon
+
+  <img width="732" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/8efb8e7d-39c6-41d9-abbc-6618adbdfa54">
+
+
+- testDeleteRequestCon
+
+  <img width="731" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/11bd2393-244a-4ac8-baf1-c8e3041fb4dc">
+
+- testDeleteRequestNon
+
+  <img width="735" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/c7457681-870d-475e-9c97-496e8ce63e5f">
+
 
 
 
