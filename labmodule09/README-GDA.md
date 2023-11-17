@@ -104,6 +104,27 @@ test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
   <img width="1091" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/ca20b663-3f51-4868-8580-abc4c6de46d6">
   <img width="1075" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/d8257dca-164d-450b-8396-b60441e7688c">
 
+- testConnectAndDiscover
+  
+  <img width="726" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/79f96e60-925d-4a1f-b1c1-64d4e4c5124a">
+
+- testObserve
+
+  <img width="737" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/ebe9965e-2f5b-4b66-a4ec-d533912972b2">
+
+- testGetRequestCon
+
+<img width="722" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/11ca897a-983a-46fb-bbdd-4494385085a4">
+
+- testGetRequestNon
+
+<img width="733" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/e3f3fc6a-5f24-429f-86fe-ee417fa5738e">
+
+- 
+
+
+
+
 
 
 EOF.
