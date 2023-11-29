@@ -31,9 +31,6 @@ NOTE: TA's will execute your unit tests. You only need to list each test case be
 (e.g. ConfigUtilTest, DataUtilTest, etc). Be sure to include all previous tests, too,
 since you need to ensure you haven't introduced regressions.
 
-- 
-- 
-- 
 
 ### Integration Tests Executed
 
@@ -42,8 +39,31 @@ some exceptions (such as your cloud connectivity tests). In such cases, they'll 
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
-- 
-- 
-- 
+- testConnectAndDisconnect
+
+<img width="384" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/4ca4a189-8cc0-45f9-ad6d-0ccc2c31bb2f">
+
+- testPublishQoS1()
+
+  <img width="400" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/322a9468-8d1e-4b1d-b03e-52dbd72ea1cd">
+
+- testPublishQoS2()
+
+  <img width="386" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/55d85c6c-f720-47cc-91f1-6a448a04cc95">
+
+- testPublishQoS0()
+
+  <img width="439" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/afc3ccf5-6205-4394-ab29-e45b38e23420">
+
+- MqttClientConnectorTest
+
+  <img width="550" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/71513122-16a0-4e40-8573-e1a7890b1df1">
+
+- testActuatorCommandResponseSubscription()
+
+  <img width="342" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/8e718938-4ade-4444-a12f-8ef1f517e043">
+
+  
+
 
 EOF.
