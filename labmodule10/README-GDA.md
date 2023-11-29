@@ -8,15 +8,20 @@ Be sure to implement all the PIOT-GDA-* issues (requirements) listed at [PIOT-IN
 
 NOTE: Include two full paragraphs describing your implementation approach by answering the questions listed below.
 
-What does your implementation do? 
+**What does your implementation do?**
 
-How does your implementation work?
+The implementation focuses on the integration of Edge Tier applications, namely the CDA and GDA, in an IoT ecosystem using CoAP and MQTT protocols. A significant emphasis is placed on enhancing security by enabling TLS encryption for MQTT communication between the applications, ensuring the secure exchange of messages. The implementation provides detailed programming exercises for configuring TLS in the MQTT broker (Mosquitto) and modifying the MqttClientConnector class in both the CDA and GDA to support encrypted connections. It also addresses credential management and highlights the importance of secure practices in handling private keys. Overall, the implementation aims to establish a secure and robust communication framework within the Edge Tier of the IoT ecosystem.
+
+**How does your implementation work?**
+
+The implementation facilitates the integration of Edge Tier applications (CDA and GDA) in an IoT ecosystem using CoAP and MQTT protocols. A key emphasis is on security, with a focus on enabling TLS encryption for MQTT connections between CDA and GDA. The process involves configuring the Mosquitto broker to support TLS, loading credentials securely, and modifying the MqttClientConnector class in both applications. The modifications include SSL socket factory initialization and configuring the MQTT client connection for encryption. The implementation ensures secure communication between the applications, with the flexibility to adapt to different environments and cloud services.
+
 
 ### Code Repository and Branch
 
 NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot/python-components/tree/alpha001).
 
-URL: 
+URL: https://github.com/lybamughees/piot-java-components/tree/labmodule10
 
 ### UML Design Diagram(s)
 
