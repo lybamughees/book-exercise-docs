@@ -20,7 +20,7 @@ The implementation facilitates the integration of Edge Tier applications (CDA an
 
 NOTE: Be sure to include the branch (e.g. https://github.com/programming-the-iot/python-components/tree/alpha001).
 
-URL: 
+URL: https://github.com/madlitch/python-components
 
 ### UML Design Diagram(s)
 
