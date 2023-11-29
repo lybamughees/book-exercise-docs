@@ -46,8 +46,21 @@ some exceptions (such as your cloud connectivity tests). In such cases, they'll 
 your code to ensure it's correct. As for the tests you execute, you only need to list each
 test case below (e.g. SensorSimAdapterManagerTest, DeviceDataManagerTest, etc.)
 
-- 
-- 
-- 
+- testConnectAndDisconnect(), testPublishQoS0(), testPublishQoS1(), testPublishQoS2()
+
+  <img width="709" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/c3f28c57-2b4f-4c66-96b3-5504b4e5b090">
+
+- DeviceDataManagerCallbackTest
+
+<img width="664" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/6ba89aee-4080-4b3d-abd3-a270f36431f0">
+
+- testNewActuatorCmdPubSub()
+
+<img width="580" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/a4638b49-720d-464d-a280-6d02ac006329">
+
+- DeviceDataManagerIntegrationTest
+
+  <img width="566" alt="image" src="https://github.com/lybamughees/book-exercise-docs/assets/66569488/28b0a889-494f-462a-8544-1dc2a157d6b7">
+
 
 EOF.
